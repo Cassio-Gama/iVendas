@@ -3,9 +3,9 @@ package iVenda;
 /*
  
   
-   ______________________________________
-|             <<Interface>>             |
-|                IVenda                 |
+ ______________________________________
+|             <<Interface>>            |
+|                IVenda                |
 |______________________________________|
 | + vender(): void                     |
 |______________________________________|
@@ -16,7 +16,7 @@ package iVenda;
        | - modelo: String    |
        | - anoFabricacao: int|
        | - preco: double     |
-       | - disponivel: boolean|
+       | - disponivel:boolean|
        |_____________________|
        | + vender(): void    |
        |_____________________|
